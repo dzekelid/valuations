@@ -36,7 +36,7 @@ apis:
   tags: Valuations
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/valuations/master/_listings/aws-machine-learning/action-describeevaluations-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/valuations/master/_listings/aws-machine-learning/action-getevaluation-get.md
 x-common:
 - type: x-command-line-interface
   url: http://aws.amazon.com/cli/
